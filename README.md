@@ -7,6 +7,7 @@ Csak egész számokat lehessen használni.<br>
 Számok intervalluma 1-100-ig.<br>
 A végén statisztikát kell csinálni hány kérdésből hány rossz és jó volt .<br>
 A felhsznnáló döntse-el,hogy melyik műveletett akarja gyakorolni. <br>
+A válaszokat elkell menteni.
 
 Bekérés<br>
 Main<br>
