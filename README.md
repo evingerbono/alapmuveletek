@@ -15,6 +15,7 @@ Kiírás
 
 package oraimunka0309;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class OraiMunka0309 {
@@ -22,18 +23,29 @@ public class OraiMunka0309 {
     public static void main(String[] args) {
         int menu = beker(0, 100);
 
+        
         if (menu == 1) 
-            osszeadads();
+            osszeadas();
         else if (menu == 2)
             kivonas();
         else if (menu == 3) 
             szorzás();
         else if (menu == 4) 
             osztas();
+        
     }
     
-    private static void osszeadads() {
-        System.out.println("Osszead");
+    private static void osszeadas() {
+        Random rnd = new Random();
+        Scanner scr = new Scanner(System.in);
+        
+        int szam1 = rnd.nextInt(100), szam2 = rnd.nextInt(100), eredmeny = szam1 + szam2;
+        System.out.println(szam1 + " + " + szam2 + " = ?");
+        int valasz = scr.nextInt();
+        if (valasz == eredmeny)
+            System.out.println("Helyes válasz");
+        else
+            System.out.println("Rossz válasz! A helyes: "+ eredmeny);
     }
 
 
