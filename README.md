@@ -13,7 +13,7 @@ Main
 Main művellet
 Kiírás
 
-Csiszér Alex Dominik: Osztás
+Csiszér Alex Dominik: Osztás <br>
 Furkó Norbert: Kivonás
 Evinger Bónó: Szorzás
 
