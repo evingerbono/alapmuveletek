@@ -1,4 +1,4 @@
- Alap-Muveletek1A1
+ #Alap-Muveletek1A1
 
 4-alapműveletet kell gyakoroltatni (összeadaás, kivonás, szorzás, osztás)<br>
 Nem lehet minusz számot megadni a műveletekkel pl 5-6=-1 ez nem lehet.<br>
