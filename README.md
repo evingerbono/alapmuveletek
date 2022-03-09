@@ -1,17 +1,21 @@
  Alap-Muveletek1A1
 
-4-alapműveletett kell gyakoroltattní (összeadaás, kivonás, szorzás, osztás)
+4-alapműveletet kell gyakoroltatni (összeadaás, kivonás, szorzás, osztás)
 Nem lehet minusz számot megadni a műveletekkel pl 5-6=-1 ez nem lehet.
 Osztásnál ne legyen maradékos osztásos feladat.
 Csak egész számokat lehessen használni.
 Számok intervalluma 1-100-ig.
-A végén statisztikát kell csinálni hány kérdésből hány rosz és jó volt .
+A végén statisztikát kell csinálni hány kérdésből hány rossz és jó volt .
 A felhsznnáló döntse-el,hogy melyik műveletett akarja gyakorolni. 
 
 Bekérés
 Main
 Main művellet
 Kiírás
+
+Csiszér Alex Dominik: Osztás
+Furkó Norbert: Kivonás
+Evinger Bónó: Szorzás
 
 package oraimunka0309;
 
