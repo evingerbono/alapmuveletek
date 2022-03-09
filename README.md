@@ -14,7 +14,7 @@ Main művellet
 Kiírás
 
 Csiszér Alex Dominik: Osztás <br>
-Furkó Norbert: Kivonás
+Furkó Norbert: Kivonás <br>
 Evinger Bónó: Szorzás
 
 package oraimunka0309;
