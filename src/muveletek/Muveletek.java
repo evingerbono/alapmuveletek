@@ -155,7 +155,6 @@ private static int beker(int also, int felso) {
     Scanner scr = new Scanner(System.in);
     System.out.print("Mit szeretnél gyakorolni? (1: Összeadás; 2: Kivonás; 3: Szorzás; 4: Osztás) ");
     int szam = scr.nextInt();
-    int[] tomb={szam};
     return szam;
 }
         
