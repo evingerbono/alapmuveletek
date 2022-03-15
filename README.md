@@ -15,7 +15,7 @@ Main művellet<br>
 Kiírás<br>
 
 Csiszér Alex Dominik: Osztás, összeadás, új játék kezdés <br>
-Furkó Norbert: Kivonás, mennyit válaszolt helyesen <br>
+Furkó Norbert: Kivonás, mennyi helyes válasza volt <br>
 Evinger Bónó: Szorzás, melyiket választotta a legtöbbször
 
 package oraimunka0309;
